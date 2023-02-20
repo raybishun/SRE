@@ -92,7 +92,7 @@ sudo docker version
 sudo docker run hello-world
 ```
 
-# Verify Git is installed.
+## Verify Git is installed.
 ```
 git version
 ```
